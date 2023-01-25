@@ -1,3 +1,14 @@
+# local changes for installation from github rather than from npm repository:
+
+## installation command:
+
+```bash
+npm install --save github:palainteractive/capacitor-advertising-id#feat/v4
+```
+
+# *** Below is the original @capacitor-community README.md ***
+
+
 # @capacitor-community/advertising-id
 
 Allows access to the IDFA (iOS) and GAID (Android)
