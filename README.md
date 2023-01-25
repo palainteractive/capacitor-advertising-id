@@ -1,4 +1,4 @@
-# local changes for installation from github rather than from npm repository:
+# Pala Interactive information:
 
 ## installation command:
 
