@@ -4,6 +4,7 @@
 
 ```bash
 npm install --save github:palainteractive/capacitor-advertising-id#feat/v4
+npx cap sync
 ```
 
 # *** Below is the original @capacitor-community README.md ***
